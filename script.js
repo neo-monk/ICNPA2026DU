@@ -10,7 +10,7 @@ const sections = [
       title:"xy",
       authors:"xyz",
       page:1,
-      pdf:"https://docs.google.com/document/d/1q00EDGRldYEBJwoC9jkQS098fax3Q8K3YiPEC0p3NX0/edit?usp=sharing"
+      pdf:"https://drive.google.com/file/d/1wyQ5351UpAFNlHIGcLWgclUVzYsp7V2k/view?usp=sharing"
     }
   ]}
 ];
